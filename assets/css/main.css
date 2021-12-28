@@ -3522,7 +3522,8 @@ input, select, textarea {
 				#banner .content .image img {
 					/*border-radius: 0%;*/
 					display: block;
-					width: 200%;
+					width: auto;
+					height: 18em;
 				}
 
 	body.is-touch #banner {
