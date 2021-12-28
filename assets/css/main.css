@@ -3524,6 +3524,7 @@ input, select, textarea {
 					display: block;
 					width: auto;
 					height: 18em;
+					horiz-align: center;
 				}
 
 	body.is-touch #banner {
