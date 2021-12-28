@@ -3515,14 +3515,14 @@ input, select, textarea {
 				display: inline-block;
 				height: 18em;
 				margin-left: 3em;
-				vertical-align: middle;
+				vertical-align: top;
 				width: 18em;
 			}
 
 				#banner .content .image img {
-					border-radius: 100%;
+					border-radius: 0%;
 					display: block;
-					width: 100%;
+					width: 130%;
 				}
 
 	body.is-touch #banner {
